@@ -1,6 +1,6 @@
 # Escape Room
 
-Escape Room for my sweet girlfrienf
+Escape Room for my sweet girlfriend
 
 ## Tehnologies
 

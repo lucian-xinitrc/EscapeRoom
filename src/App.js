@@ -12,7 +12,7 @@ function App() {
   
   const [letter, setLetter] = useState(true);
   const [showletter, setShowLetter] = useState(false);
-  const [lock, unlockPadlock ] = useState(false);
+  const [lock, unlockPadlock ] = useState(false); 
 
   const [lockerOpened, setLockerOpened] = useState(false);
 
